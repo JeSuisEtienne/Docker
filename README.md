@@ -1,6 +1,7 @@
 # TChoupi
 
 * Le but de ce projet sera de faire un pokedex avec Angular, les pokemons seront stockés dans une base de données Mongo NoSql.
+* Le but de grafana permet la visualisation de données.
 
 # Prérequis
 * Installer Docker
@@ -16,6 +17,15 @@ docker pull Redis
 docker pull angular/ngcontainer
 docker pull grafana/grafana
 ```
+
+# Création de l'application Pokédex Angular
+* Code
+
+# Faire le script pour mongo
+* Script pour ajouter les pokémons a la base de donnée 
+
+# Rendre la base de donnée persistante 
+* commande Docker pour la BDD
 
 # Créer Docker-compose
 * Aller dans le dossier souhaité 
